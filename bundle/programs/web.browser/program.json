@@ -1,0 +1,77 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "dc55d4e97c4a8495eee04c4c1e61bff4e6744602.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/dc55d4e97c4a8495eee04c4c1e61bff4e6744602.js?meteor_js_resource=true",
+      "size": 3566874,
+      "hash": "dc55d4e97c4a8495eee04c4c1e61bff4e6744602",
+      "sri": "+sk6beJN2ryEiwhRfjGBZEksgXfE0XkPQBSB25AtcUZR1GTfkDIClvq6dQ+sNxq0hUBVQbnt1qpK+1T4cgyUTQ=="
+    },
+    {
+      "path": "dc55d4e97c4a8495eee04c4c1e61bff4e6744602.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/dc55d4e97c4a8495eee04c4c1e61bff4e6744602.stats.json?meteor_js_resource=true",
+      "size": 99902,
+      "hash": "e107327fadf66ff818bf7fe42d6349a333497bef",
+      "sri": "fxCyKIEiWdffIQZ8dp9kFGvUxP69PY9qq6wppmPeR6PCOZxJK+dlaMsh4GHCl/OIlZh4F6u4OXKog/qFulHKdQ=="
+    },
+    {
+      "path": "12c2f2b65730fbd26e61e231d7062e1223feea4a.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/12c2f2b65730fbd26e61e231d7062e1223feea4a.css?meteor_css_resource=true",
+      "size": 190327,
+      "hash": "12c2f2b65730fbd26e61e231d7062e1223feea4a",
+      "sri": "dU4FQmOh2B7gpF8ixrfWu3S4HGnstcmIVNvG+NMc7qYhJWunqtmE9oXQp3UpMG57WZxvAisNvYKUOOHHW8oA4Q=="
+    },
+    {
+      "path": "app/img/big-dipper.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/big-dipper.png",
+      "size": 168531,
+      "hash": "0357f6ec4a151a71c8475bd7fa994ded6b1f27f9",
+      "sri": null
+    },
+    {
+      "path": "app/img/big-dipper.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/big-dipper.svg",
+      "size": 1944,
+      "hash": "4f1ad6284b8f5fbec28c5352d4fc6170f92b4980",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_v11.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_v11.png",
+      "size": 292898,
+      "hash": "73c60337c2deacad1175e07bd7f3a9f8f4188ff4",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "799040f7af2d969c4eebdbb0bfe3aaa0dc7f567d"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "1b433f33b806b0ddfe84c13b41b6b68881ee49ec"
+    }
+  ]
+}

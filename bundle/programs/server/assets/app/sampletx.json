@@ -1,0 +1,107 @@
+{
+  "_id": "yDtPnTQKyt47WQpbT",
+  "height": 6112,
+  "txhash": "2A1F345468C2B357BA2C00CA7477A02C2EA2D4083E19D9B1FAC995B155DCB1B8",
+  "raw_log": "[{\"msg_index\":0,\"success\":true,\"log\":\"\"}]",
+  "logs": [
+    {
+      "msg_index": 0,
+      "success": true,
+      "log": ""
+    }
+  ],
+  "gas_wanted": 200000,
+  "gas_used": 25153,
+  "events": [
+    {
+      "type": "message",
+      "attributes": [
+        {
+          "key": "action",
+          "value": "send"
+        },
+        {
+          "key": "sender",
+          "value": "dx01qxpej02f506dep649cvd9x24a98pasgkqr3vu9"
+        },
+        {
+          "key": "module",
+          "value": "bank"
+        }
+      ]
+    },
+    {
+      "type": "transfer",
+      "attributes": [
+        {
+          "key": "recipient",
+          "value": "dx01pqvgym20pafzm8rz4sd2h760m5009jgjv8qwum"
+        },
+        {
+          "key": "amount",
+          "value": "5000dpl"
+        }
+      ]
+    }
+  ],
+  "tx": {
+    "msg": [
+      {
+        "from_address": "dx01qxpej02f506dep649cvd9x24a98pasgkqr3vu9",
+        "to_address": "dx01pqvgym20pafzm8rz4sd2h760m5009jgjv8qwum",
+        "amount": [
+          {
+            "denom": "dpl",
+            "amount": "5000"
+          }
+        ]
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas": 200000
+    },
+    "signatures": [
+      {
+        "pub_key": [
+          3,
+          229,
+          239,
+          140,
+          85,
+          27,
+          48,
+          117,
+          0,
+          114,
+          34,
+          153,
+          239,
+          142,
+          192,
+          170,
+          50,
+          201,
+          212,
+          17,
+          93,
+          45,
+          161,
+          198,
+          192,
+          198,
+          75,
+          169,
+          173,
+          15,
+          243,
+          127,
+          104
+        ],
+        "signature": "J2ZlGKOahKGW4zzK2QIz5x4AGVVkWl+fI5Uw1jKr/blhdwvHu2JA2WTHgHpj2Q45Vcg9+FI8xZUNT2QzfxwjZg=="
+      }
+    ],
+    "memo": ""
+  },
+  "timestamp": "2020-06-16T06:36:37Z"
+}
